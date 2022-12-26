@@ -34,7 +34,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What is a Yearbook?</h3>
 				</header>
-				<p>A graduation yearbook is a publication that is produced by a school or university at the end of an academic year to commemorate the graduating class. It typically includes photographs and biographical information about each member of the graduating class, as well as articles about notable events and achievements from the academic year and other memories and highlights from the graduating class's time at the school. <br/><br/>We've already made one yearbook which you can check out below for more information! </p>
+				<p>A graduation yearbook is a publication that is produced by a school or university at the end of an academic year to commemorate the graduating class. It typically includes photographs and biographical information about each member of the graduating class, as well as articles about notable events and achievements from the academic year and other memories and highlights from the graduating class's time at the school. <br/><br/> We've already made one yearbook which you can check out below for more information! </p>
 				<ul class="actions">
 					<li><a href="cse22yearbook.html" class="button">Learn more</a></li>
 				</ul>
