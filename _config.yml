@@ -1,17 +1,19 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: Yearli
+subtitle: A NITS initiative
+email: yearbookpics69@gmail.com
+description: Introducing the concept of graduation 
+              yearbooks in India and producing other mementos to 
+              capture the essence of college life.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://yearli-nits.github.io/ # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: National Institute of Technology, Silchar
+city: Cachar
+state: Assam
+zip_code: 788010
+country: India
+phone: +91 77409 66996
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +24,15 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: #https://github.com/andrewbanchich
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
+  Google-Plus: #https://plus.google.com/u/0/+AndrewBanchich
+  Instagram: https://www.instagram.com/the_yearli_company/
+  LinkedIn: #https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  Twitter: #https://twitter.com/andrewbanchich
+  Facebook: https://www.facebook.com/profile.php?id=100085769184634
   Slack:
+  Link: https://www.linktr.ee/yearli
 
 # build settings
 markdown: kramdown
