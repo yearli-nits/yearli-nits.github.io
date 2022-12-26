@@ -10,8 +10,8 @@ nav-menu: true
 
 	<div class="box alt">
 		<div class="row 50% uniform">
-			<div class="6u"><span class="image fit"><img src="{% link assets/images/cse22cover.jpg %}" alt="" /></span></div>
-			<div class="6u"><span class="image fit"><img src="{% link assets/images/CSE22_Page_2_Image_0001.png %}" alt="" /></span></div>
+			<div class="6u"><span class="image fit"><img src="https://res.cloudinary.com/dn7lyluuv/image/upload/q_auto:low/v1672023371/cse22cover_klgct2.jpg" alt="" /></span></div>
+			<div class="6u"><span class="image fit"><img src="https://res.cloudinary.com/dn7lyluuv/image/upload/q_auto:low/v1672023371/CSE22_Page_2_Image_0001_zzecxd.jpg" alt="" /></span></div>
 			
 		</div>
 	</div>
@@ -19,17 +19,17 @@ nav-menu: true
 
 	<div class="box alt">
 		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="{% link assets/images/CSE22_Page_3_Image_0001.png %}" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="{% link assets/images/CSE22_Page_5_Image_0001.png %}" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="{% link assets/images/CSE22_Page_8_Image_0001.png %}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="https://res.cloudinary.com/dn7lyluuv/image/upload/q_auto:low/v1672023371/CSE22_Page_3_Image_0001_t6ttpu.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="https://res.cloudinary.com/dn7lyluuv/image/upload/q_auto:low/v1672023371/CSE22_Page_5_Image_0001_p8kwxm.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="https://res.cloudinary.com/dn7lyluuv/image/upload/q_auto:low/v1672023371/CSE22_Page_4_Image_0001_epbhot.jpg" alt="" /></span></div>
 			<!-- Break -->
 		</div>
 	</div>
 
 	<h4>An unforgettable yearbook for an unforgettable batch</h4>
 
-	<p><span class="image left"><img src="{% link assets/images/CSE22_Page_7_Image_0001.png %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-	<span class="image fit"><img src="{% link assets/images/CSE22_Page_6_Image_0001.png %}" alt="" /></span>
+	<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+	<span class="image fit"><img src="https://res.cloudinary.com/dn7lyluuv/image/upload/q_auto:low/v1672023371/CSE22_Page_6_Image_0001_xjpw00.jpg" alt="" /></span>
 	<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 
 	<h4>Pricing</h4>

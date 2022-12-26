@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Binding memories across India'
 description: null
-image: assets/images/yearbookideation.jpg
+image: null
 author: null
 show_tile: false
 ---
