@@ -1,12 +1,10 @@
 # site settings
 title: Yearli
 subtitle: A NITS initiative
-email: yearbookpics69@gmail.com
-description: Introducing the concept of graduation 
-              yearbooks in India and producing other mementos to 
-              capture the essence of college life.
+email: rahultesnik@gmail.com
+description: To introduce the culture of western Graduation Yearbooks to India and capturing the essence of college and school life, one memento at a time
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://yearli-nits.github.io/ # the base hostname & protocol for your site
+url: https://yearli.me # the base hostname & protocol for your site
 author:
 street_address: National Institute of Technology, Silchar
 city: Cachar

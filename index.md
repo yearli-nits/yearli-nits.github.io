@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Binding memories across India'
+landing-title: 'Binding memories'
 description: null
 image: null
 author: null

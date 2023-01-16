@@ -28,9 +28,25 @@ nav-menu: true
 
 	<h4>An unforgettable yearbook for an unforgettable batch</h4>
 
-	<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+	<p>In order to preserve the memories of the alumni of the '22 batch, we have chosen the graduation yearbook of the CSE '22 as our first project. We are very excited with how the final product has turned out! Having sold copies at the convocation physically, we have now made it available for delivery across India.
+
+	
+	</p>
 	<span class="image fit"><img src="https://res.cloudinary.com/dn7lyluuv/image/upload/q_auto:low/v1672023371/CSE22_Page_6_Image_0001_xjpw00.jpg" alt="" /></span>
-	<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+	
+	
+	<p>
+	The yearbook includes:
+		
+	<ol>
+		<li>Pictures of Fests and Festivals that the batch has experienced here in Silchar</li>
+		<li>An individual quote and picture from every student from the CSE batch of 2022</li>
+		<li>The general fresher's and branch fresher's for the batch</li>
+		<li>Pictures of the branch photoshoot and the farewell party, Ruksat 2022</li>
+		<li>Remembrances and content of the hostels, other events, and more fragments of nostalgia in the memory lane section</li>
+		<li>A Slam Page where you can get your friends to sign something, whether you reunite with them today, tomorrow, or a few years down the line</li>
+	</ol>
+</p>
 
 	<h4>Pricing</h4>
 	<div class="table-wrapper">
@@ -51,13 +67,13 @@ nav-menu: true
 				<tr>
 					<td>2</td>
 					<td>Delivery charge (outside Silchar)</td>
-					<td>100.00</td>
+					<td>49.00</td>
 				</tr>
 			</tbody>
 			<tfoot>
 				<tr>
 					<td colspan="2"></td>
-					<td>750.00</td>
+					<td>699.00</td>
 				</tr>
 			</tfoot>
 		</table>

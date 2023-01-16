@@ -6,10 +6,20 @@ image: assets/images/csebatchtshirt.jpeg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+We will soon begin creating t-shirts and hoodies for college clubs, branches, and societies. We have already produced tshirts for ourselves and have gone through the entire process of:
+<ul>
+    <li>Producing designs</li>
+    <li>Contacting vendors to find the most affordable quotes</li>
+    <li>Performing quality checks and acertaining the right sizes</li>
+</ul>
 
 <span class="image fit"><img src="https://res.cloudinary.com/dn7lyluuv/image/upload/q_auto:low/v1672023357/cse-white-tshirt_bhl1xs.jpg" alt="" /></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Here we have our designs for the branch t-shirt of the CSE batch of '23. 
+<br/><br/>
+If you like this design and wish to purchase one, hold on because we'll be starting our sales soon!
+<br/><br/> And if you want such a personalized memento made with your intentions and needs in mind, reach out to us and we'll get back to with demo designs and pricing quotes!
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<ul class="actions">
+			<li><a href="http://localhost:4000/aboutus#three" class="button next">Our platforms</a></li>
+</ul>
